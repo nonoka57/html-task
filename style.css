@@ -70,7 +70,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   main {
-    width: 100%;
+    width: 425px;
   }
 
   .box {
@@ -82,10 +82,10 @@ footer {
   .box:last-child {
     margin: 0 auto;
   }
+}
 
-
-@media screen and (max-width: 425px){
-  main{
-    width:100%;
+@media screen and (max-width: 425px) {
+  main {
+    width: 100%;
   }
 }
